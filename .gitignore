@@ -1,0 +1,8 @@
+*.class
+target*
+pom.xml.releaseBackup
+.classpath
+.project
+.settings
+.svn
+*gen*
